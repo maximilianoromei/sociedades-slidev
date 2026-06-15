@@ -4,6 +4,7 @@ title: Sociedades Civiles y Comerciales
 author: Maximiliano Romei
 background: https://images.unsplash.com/photo-1681505531034-8d67054e07f6
 class: text-white
+routerMode: hash
 ---
 
 # Las Sociedades en el derecho contemporáneo Argentino
