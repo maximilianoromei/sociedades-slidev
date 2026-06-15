@@ -5,6 +5,7 @@ author: Maximiliano Romei
 background: https://images.unsplash.com/photo-1681505531034-8d67054e07f6
 class: text-white
 routerMode: hash
+base: /sociedades-slidev/
 ---
 
 # Las Sociedades en el derecho contemporáneo Argentino
